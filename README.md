@@ -1,1 +1,1 @@
-# curso_dl_session02
+# course_dl_session02
